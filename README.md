@@ -1,5 +1,8 @@
-# TicTacToe
+# TicTacToe Game
 
-Used
-*Arrays
-*Conditiona Statements
+Simple Tic Tac Toe Game 
+
+Tools Used:
+Java
+
+
